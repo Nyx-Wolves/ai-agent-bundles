@@ -1,6 +1,16 @@
-# 🧠 AI Agent Giveaway Bundles by Nyx Wolves
+# 🧠 AI Agent Bundles by [Nyx Wolves](https://nyxwolves.com)
 
 Welcome to the ultimate AI Agent bundle drop! Each bundle below includes ready-to-deploy AI workflows curated from real-world templates designed to boost productivity, drive revenue, or automate your boring tasks. 🚀
+
+![AI Agent Banner](assets/banner.png)
+
+## 📦 How to Use
+
+1. Import JSON into [n8n](https://n8n.io) or your preferred automation platform.
+2. Connect the required integrations (OpenAI, Google, Airtable, etc.).
+3. Test, deploy, and automate your work with zero burnout.
+
+![Demo Workflow](assets/demo.gif)
 
 ---
 
@@ -74,15 +84,12 @@ Welcome to the ultimate AI Agent bundle drop! Each bundle below includes ready-t
 | **PDF Chatbot with Source Quoting** | AI chatbot that references sections in your docs. |
 | **BambooHR Policy Chatbot** | (Also used in Legal for internal compliance access.) |
 
----
 
-## 📦 How to Use
 
-1. Import JSON into [n8n](https://n8n.io) or your preferred automation platform.
-2. Connect the required integrations (OpenAI, Google, Airtable, etc.).
-3. Test, deploy, and automate your work with zero burnout.
 
 ---
+
+Need custom agents? [Talk to us](https://nyxwolves.com)
 
 ##  License & Credits
 

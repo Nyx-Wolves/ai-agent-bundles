@@ -1,6 +1,7 @@
-# 🧠 AI Agent Bundles by [Nyx Wolves](https://nyxwolves.com)
+# 🧠 AI Agent Bundles by Nyx Wolves
 
 Welcome to the ultimate AI Agent bundle drop! Each bundle below includes ready-to-deploy AI workflows curated from real-world templates designed to boost productivity, drive revenue, or automate your boring tasks. 🚀
+👉 Explore more AI automations at [nyxwolves.com](https://nyxwolves.com)
 
 ![AI Agent Banner](assets/banner.png)
 
